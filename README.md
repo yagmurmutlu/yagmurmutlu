@@ -1,6 +1,6 @@
 ### Hi, I'm Yağmur👋
 
-< I am working on projects in the fields of data science and artificial intelligence, and constantly striving to improve myself in these areas.
+- 🔭  I am working on projects in the fields of data science and artificial intelligence, and constantly striving to improve myself in these areas.
 
 <h3 align="center">Contact with me:</h3>
 <div align="center">
@@ -11,16 +11,16 @@
   
 </div>
 
-- 🔭 I’m currently working on 
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
 <p hizalama="sol">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/R/R-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C/C-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/SQL/SQL-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
