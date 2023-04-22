@@ -18,14 +18,15 @@
 <p hizalama="sol">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/rstudio-original-wordmark.svg" alt="R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-
 
 
 </p>
 
+   <a href="https://github.com/tunceratac/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurmutlu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yağmur's github stats" /></a> 
+
+   <a href="https://github.com/yagmurmutlu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurmutlu&layout=compact&theme=buefy&hide_border=true" /></a>
