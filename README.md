@@ -1,5 +1,7 @@
 ### Hi, I'm Yağmur👋
 
+<h3 align="center">I'm studying computer engineering student</h3>
+
 - 🔭  I am working on projects in the fields of data science and artificial intelligence, and constantly striving to improve myself in these areas.
 
 <h3 align="center">Contact with me:</h3>
@@ -30,3 +32,5 @@
    <a href="https://github.com/tunceratac/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurmutlu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yağmur's github stats" /></a> 
 
    <a href="https://github.com/yagmurmutlu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurmutlu&layout=compact&theme=buefy&hide_border=true" /></a>
+   
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagmurmutlu&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
