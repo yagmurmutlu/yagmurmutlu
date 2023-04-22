@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm studying computer engineering </h3>
 
-- 🔭  I am working on projects in the fields of data science and artificial intelligence, and constantly striving to improve myself in these areas.
+- 🔭  I am working on projects in the fields of data science and artificial intelligence and constantly striving to improve myself in these areas.
 
 <h3 align="center">Contact with me:</h3>
 <div align="center">
