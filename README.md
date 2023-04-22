@@ -1,7 +1,15 @@
 ### Hi, I'm Yağmur👋
 
 < I am working on projects in the fields of data science and artificial intelligence, and constantly striving to improve myself in these areas.
-Here are some ideas to get you started:
+
+<h3 align="center">Contact with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagmur-mutlu/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yagmrmutluu/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagmrmutlu@gmail.com)
+  
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
