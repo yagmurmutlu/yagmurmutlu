@@ -31,9 +31,7 @@
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagmurmutlu&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
-   <a href="https://github.com/tunceratac/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurmutlu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yağmur's github stats" /></a> 
 
-   <a href="https://github.com/yagmurmutlu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurmutlu&layout=compact&theme=buefy&hide_border=true" /></a>
    
    <a href="https://github.com/nkthehustler/github-readme-stats">
 <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurmutlu&theme=black&show_icons=true&bg_color=0D1117&hide_border=true" />
