@@ -39,7 +39,7 @@
 <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurmutlu&theme=black&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/nkthehustler/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkanmutllu&theme=black&layout=compact&bg_color=0D1117&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurmutlu&theme=black&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
    
