@@ -1,6 +1,6 @@
 ### Hi, I'm Yağmur👋
 
-<h3 align="center">I'm studying computer engineering </h3>
+<h3 align="center">I'm computer enginner </h3>
 
 - 🔭  I am working on projects in the fields of data science and artificial intelligence and constantly striving to improve myself in these areas.
 
